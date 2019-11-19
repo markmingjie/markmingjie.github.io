@@ -1,7 +1,15 @@
 # jemdoc: nofooter
 # jemdoc: addcss{person.css}, showsource
 = Mingjie Wang
-Beijing Forestry University
+
+~~~
+{}{table}{TABLENAME}
+35\# Tsinghua East Road， ||
+Haidian District，Beijing，PR China ||
+College of Materials Science and Technology   ||
+Beijing Forestry University   | 
+~~~
+
 == Research
 - Automatic code generation for embedded convex optimization
 - Computer modeling of convex problems
@@ -69,3 +77,5 @@ Teaching assistant at Stanford University for:
   features of the [http://www.vim.org/ vim] text editor
 - [matrixmultiply.html Matrix multiplication speeds] in C
 - Various [computationspeeds.html computation speeds] in C
+
+
