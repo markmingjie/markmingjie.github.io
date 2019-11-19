@@ -4,8 +4,9 @@
 
 ~~~
 {}{table}{TABLENAME}
-35\# Tsinghua East Road， ||
-Haidian District，Beijing，PR China ||
+35\# Tsinghua East Road, ||
+Haidian District, Beijing, PR China ||
+College of Materials Science and Technology   ||
 College of Materials Science and Technology   ||
 Beijing Forestry University   | 
 ~~~
@@ -78,4 +79,7 @@ Teaching assistant at Stanford University for:
 - [matrixmultiply.html Matrix multiplication speeds] in C
 - Various [computationspeeds.html computation speeds] in C
 
-
+~~~
+{}{img_left}{FILENAME.IMG}{alt text}{WIDTHpx}{HEIGHTpx}{./eqs/1.jpg}
+Ordinary jemdoc markup goes here.
+~~~
