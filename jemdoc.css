@@ -92,8 +92,7 @@ div.menu-item {
 div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
-	border-bottom: 0px double gray;
-}
+	}
 
 /* Reduce space if we begin the page with a title. */
 div#toptitle + h2, div#toptitle + h3 {
