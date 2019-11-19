@@ -1,0 +1,78 @@
+# jemdoc: nofooter
+# jemdoc: addcss{person.css}, showsource
+= Mingjie Wang
+Beijing Forestry University
+== Research
+- Automatic code generation for embedded convex optimization
+- Computer modeling of convex problems
+
+== Software
+- [http://cvxgen.com/ CVXGEN], an online tool for creating extremely fast
+  solvers
+- [http://cvxmod.net/ CVXMOD], a Python tool for convex optimization 
+- [http://jemdoc.jaboc.net/ jemdoc], a light, $\mbox{\LaTeX}$ equation
+  supporting, text-based markup language for creating websites
+
+== Papers
+- [http://stanford.edu/~boyd/papers/code_gen_impl.html CVXGEN: A Code Generator
+  for Embedded Convex Optimization], J. Mattingley and S. Boyd,
+  /Optimization and Engineering/, 13(1):1--27, 2012
+- [http://stanford.edu/~boyd/papers/code_gen_rhc.html Code Generation for
+  Receding Horizon Control], J. Mattingley, Y. Wang and S. Boyd,
+  /Proceedings IEEE Multi-Conference on Systems and Control/, pages 985--992,
+  Yokohama, Japan, September 2010
+- [http://stanford.edu/~boyd/papers/rt_cvx_sig_proc.html Real-Time Convex
+  Optimization in Signal Processing], J. Mattingley and S. Boyd, 
+  /IEEE Signal Processing Magazine/, 27(3):50--61, May 2010
+- [http://stanford.edu/~boyd/papers/rt_cvx_opt.html Automatic Code Generation
+  for Real-Time Convex Optimization], J. Mattingley and S. Boyd,
+  chapter in /Convex Optimization in Signal Processing and Communications/, Y.
+  Eldar and D. Palomar, Eds., Cambridge University Press, 2009
+
+== Talks
+- [code_gen_impl_slides.pdf *Code Generation for Embedded Convex Optimization*],
+  given at Stanford University in October 2010, and [http://www.jpl.nasa.gov/ NASA
+  JPL] and [http://www.caltech.edu/ Caltech] in November 2010.
+- [msc10-mattingley.pdf Code Generation for Receding Horizon Control],
+  given at [http://www.mei.titech.ac.jp/msc10/ IEEE MSC] in Yokohama, Japan,
+  September 2010
+- [berkeley10-mattingley.pdf Embedded Convex Optimization], given at
+  [http://embedded.eecs.berkeley.edu/seminar/ UC Berkeley] and at
+  [http://www.kuleuven.be/ KU Leuven], March 2010
+- [informs08-mattingley.pdf CVXMOD: Convex Optimization in Python], given at
+  the [http://meetings.informs.org/DC08/ INFORMS Annual Meeting] in Washington
+  DC, 2008
+
+
+== Teaching
+Instructor for:
+- Introduction to Linear Dynamical Systems
+  ([http://www.stanford.edu/class/ee263s/ EE263s]), Stanford University, Summer 2009
+- [http://www.kuleuven.be/optec/athens/2010 Embedded and Convex Optimization for
+  Control], one week course, KU Leuven, Belgium, March 2010
+
+Teaching assistant at Stanford University for:
+- Introduction to Linear Dynamical Systems
+  ([http://www.stanford.edu/class/ee263/ EE263]), Autumn 2006, 2007 and 2008
+- Linear Dynamical Systems ([http://www.stanford.edu/class/ee363/ EE363]),
+  Winter 2009
+- Convex Optimization I ([http://www.stanford.edu/class/ee364a/ EE364a]),
+  Winter 2008
+- Convex Optimization II ([http://www.stanford.edu/class/ee364b/ EE364b]),
+  Winter 2007 and Spring 2008
+
+== Education
+- Ph.D., Electrical Engineering, [http://www.stanford.edu Stanford University],
+  March 2011
+- M.S., Electrical Engineering, [http://www.stanford.edu Stanford University],
+  June 2007
+- B.E. (Hons) (First class), Electrical and Computer Engineering,
+  [http://www.canterbury.ac.nz Canterbury University], April 2005
+
+== Assorted other pages
+- [lp75.html Extremely short Matlab LP solvers] (fewer than 80 characters
+  per solver)
+- [vim.html vim:essentials], a short page describing some of the essential
+  features of the [http://www.vim.org/ vim] text editor
+- [matrixmultiply.html Matrix multiplication speeds] in C
+- Various [computationspeeds.html computation speeds] in C
