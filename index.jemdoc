@@ -6,12 +6,11 @@ Beijing Forestry University
 - Automatic code generation for embedded convex optimization
 - Computer modeling of convex problems
 
-== Software
-- [http://cvxgen.com/ CVXGEN], an online tool for creating extremely fast
-  solvers
-- [http://cvxmod.net/ CVXMOD], a Python tool for convex optimization 
-- [http://jemdoc.jaboc.net/ jemdoc], a light, $\mbox{\LaTeX}$ equation
-  supporting, text-based markup language for creating websites
+== Education
+- Ph.D., Wood Science and Technology, [http://www.bjfu.edu.cn Beijing Forestry University],
+  March 2011 (Successive postgraduate and doctoral program)
+- B.E., Wood Science and Engineering,
+  [http://http://www.nefu.edu.cn Northeast Forestry University], June 2016
 
 == Papers
 - [http://stanford.edu/~boyd/papers/code_gen_impl.html CVXGEN: A Code Generator
@@ -61,13 +60,6 @@ Teaching assistant at Stanford University for:
 - Convex Optimization II ([http://www.stanford.edu/class/ee364b/ EE364b]),
   Winter 2007 and Spring 2008
 
-== Education
-- Ph.D., Electrical Engineering, [http://www.stanford.edu Stanford University],
-  March 2011
-- M.S., Electrical Engineering, [http://www.stanford.edu Stanford University],
-  June 2007
-- B.E. (Hons) (First class), Electrical and Computer Engineering,
-  [http://www.canterbury.ac.nz Canterbury University], April 2005
 
 == Assorted other pages
 - [lp75.html Extremely short Matlab LP solvers] (fewer than 80 characters
