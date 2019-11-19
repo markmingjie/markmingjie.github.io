@@ -373,9 +373,12 @@ tr.heading {
 
 img {
     border: none;
+	
 }
 
 table.imgtable, table.imgtable td {
-    border: none;
-    text-align: left;
-}
+    #border: none;
+    #margin-bottom: 4.0em;
+   	display: inline; 
+	float: right;
+	}
