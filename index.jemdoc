@@ -80,6 +80,6 @@ Teaching assistant at Stanford University for:
 - Various [computationspeeds.html computation speeds] in C
 
 ~~~
-{}{img_left}{bfu.png}{alt text}{WIDTHpx}{HEIGHTpx}{./img/bfu.png}
+{}{img_left}{./img/bfu.png}{alt text}{WIDTHpx}{HEIGHTpx}{./img/bfu.png}
 Ordinary jemdoc markup goes here.
 ~~~
