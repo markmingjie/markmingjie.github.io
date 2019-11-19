@@ -13,7 +13,7 @@ body {
 }
 */
 html {
-  background-color: #eeeeee; 
+  background-color: #ffffff; 
 }
 
 body {
@@ -33,7 +33,7 @@ body {
 }
 
 #layout-menu {
-	background: #f6f6f6;
+	background: #ffffff;
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
@@ -376,9 +376,9 @@ img {
 	
 }
 
-table.imgtable, table.imgtable td {
+table.imgtable, table.imgtable td table.imgtable tr{
     #border: none;
-    #margin-bottom: 4.0em;
+    margin-bottom: 4.0em;
    	display: inline; 
 	float: right;
 	}
