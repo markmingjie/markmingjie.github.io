@@ -1,14 +1,22 @@
 # jemdoc: nofooter
 # jemdoc: addcss{person.css}, showsource
 = Mingjie Wang
+= PhD Student
+
+~~~
+{}{img_left}{./img/selfie.jpg}{alt text}{Widtpx}{230px}{./img/selfie.jpg}
+~~~
+
+
 
 ~~~
 {}{table}{TABLENAME}
-35\# Tsinghua East Road, ||
+35\# Tsinghua East Rd,||
 Haidian District, Beijing, PR China ||
 College of Materials Science and Technology   ||
-College of Materials Science and Technology   ||
-Beijing Forestry University   | 
+MOE Key Laboratory of Wooden Materials Science and Application   ||
+Beijing Forestry University   ||
+Email: mannixwang@bjfu.edu.cn   | 
 ~~~
 
 

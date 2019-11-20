@@ -120,10 +120,11 @@ div#toptitle + h2, div#toptitle + h3 {
 }
 
 div#subtitle {
-	margin-top: 0.0em;
-	margin-bottom: 0.0em;
-	padding-top: 0em;
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+	padding-top: 0.5em;
 	padding-bottom: 0.1em;
+	font-size: 110%;
 }
 
 em {
@@ -360,10 +361,12 @@ table + table {
 	padding-top: 0.0em;
 	padding-left: 1.0em;
 	padding-right: 1.0em;
+	padding-bottom: 2.5em;
     border: none;
     background: white;
     text-align: left;
     vertical-align: top;
+	font-size: 125%
 }
 
 tr.heading {
@@ -378,7 +381,8 @@ img {
 
 table.imgtable, table.imgtable td table.imgtable tr{
     #border: none;
-    margin-bottom: 4.0em;
+    margin-bottom: 2.0em;
+	padding-bottom: 0.5em;
    	display: inline; 
 	float: right;
 	}
