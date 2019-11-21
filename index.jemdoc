@@ -1,7 +1,7 @@
 # jemdoc: nofooter
 # jemdoc: addcss{person.css}, showsource
 = Mingjie Wang
-= PhD Student
+= Ph.D. Student
 
 ~~~
 {}{img_left}{./img/selfie.jpg}{alt text}{Widtpx}{230px}{./img/selfie.jpg}
@@ -28,26 +28,21 @@ Automatic code generation for embedded convex optimization
 - Computer modeling of convex problems
 
 == Education
-- Ph.D., Wood Science and Technology, [http://international.bjfu.edu.cn/eng_index/index.html Beijing Forestry University],
-  March 2011
-- B.E. , Wood Science and Engineering,
-  [http://en.nefu.edu.cn/ Northeast Forestry University], June 2016
+- Ph.D. in Wood Science and Technology, [http://international.bjfu.edu.cn/eng_index/index.html Beijing Forestry University],
+  2018-now (M.S. Leading to Ph.D.)
+- M.S. in Wood Science and Technology,
+  [http://international.bjfu.edu.cn/eng_index/index.html Beijing Forestry University], 2016-2018
+- B.S. in Wood Science and Engineering,
+  [http://en.nefu.edu.cn/ Northeast Forestry University], 2012-2016
 
-== Papers
-- [http://stanford.edu/~boyd/papers/code_gen_impl.html CVXGEN: A Code Generator
-  for Embedded Convex Optimization], J. Mattingley and S. Boyd,
-  /Optimization and Engineering/, 13(1):1--27, 2012
-- [http://stanford.edu/~boyd/papers/code_gen_rhc.html Code Generation for
-  Receding Horizon Control], J. Mattingley, Y. Wang and S. Boyd,
-  /Proceedings IEEE Multi-Conference on Systems and Control/, pages 985--992,
-  Yokohama, Japan, September 2010
-- [http://stanford.edu/~boyd/papers/rt_cvx_sig_proc.html Real-Time Convex
-  Optimization in Signal Processing], J. Mattingley and S. Boyd, 
-  /IEEE Signal Processing Magazine/, 27(3):50--61, May 2010
-- [http://stanford.edu/~boyd/papers/rt_cvx_opt.html Automatic Code Generation
-  for Real-Time Convex Optimization], J. Mattingley and S. Boyd,
-  chapter in /Convex Optimization in Signal Processing and Communications/, Y.
-  Eldar and D. Palomar, Eds., Cambridge University Press, 2009
+== Recent Publications
+- [https://doi.org/10.3390/ma11122430 Fabrication of macroporous biomorphic SiC from cellulose nanofibers aerogel]\n *M. Wang*, F. Liu, Y. Chen, J. Gao.\n
+    /Materials/, 11(12):2430, *2018*
+- [https://doi.org/10.1007/s00339-019-2975-0 Mechanical properties and microstructure of reaction sintering SiC ceramics reinforced with graphene-based fillers]\n F. Liu, *M. Wang*, Y. Chen, J. Gao, T. Ma.
+    \n/Appl. Phys. A./, 125(10):680, *2019*
+- [https://doi.org/10.1016/j.jssc.2019.04.008 Thermal stability of graphene in inert atmosphere at high temperature]\n F. Liu, *M. Wang*, Y. Chen, J. Gao.
+    \n/J. Solid State Chem./, 276:100-3, *2019*
+
 
 == Talks
 - [code_gen_impl_slides.pdf *Code Generation for Embedded Convex Optimization*],
