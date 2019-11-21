@@ -1,7 +1,7 @@
 # jemdoc: nofooter
 # jemdoc: addcss{person.css}, showsource
 = Mingjie Wang
-= Ph.D. Student
+
 
 ~~~
 {}{img_left}{./img/selfie.jpg}{alt text}{Widtpx}{230px}{./img/selfie.jpg}
@@ -11,70 +11,58 @@
 
 ~~~
 {}{table}{TABLENAME}
-35\# Tsinghua East Rd,||
-Haidian District, Beijing, PR China ||
-College of Materials Science and Technology   ||
-MOE Key Laboratory of Wooden Materials Science and Application   ||
-Beijing Forestry University   ||
-Email: mannixwang@bjfu.edu.cn   | 
+Ph.D.~ Student||
+Chinese Society of Forestry Student Member ||
+\n
+[http://clxy.bjfu.edu.cn/ College of Materials Science and Technology]   ||
+[http://international.bjfu.edu.cn/eng_index/index.html Beijing Forestry University], Beijing, PR China  ||
+
+\n
+*Email*: mannixwang@bjfu.edu.cn   | 
 ~~~
 
 == Biography
-Automatic code generation for embedded convex optimization
- Computer modeling of convex problems
+1Hang Zhang is currently a 3rd-year Ph.D. student at Department of Electrical & Computer Engineering of Cornell University, 
+under the supervision of Prof. Yi Wang. His Ph.D. committee includes Prof. Mert Sabuncu and Prof. Peter Doerschuk . 
+He earned his Master of Philosophy (M.PHIL) degree from the Department of Computer Science & Engineering, 
+The Chinese University of Hong Kong, under the supervision of Prof. Evangeline F. Y. Young. Before that, 
+he received his B.Eng degree from Sichuan University (SCU) in 2015, where he worked with Prof. Xiaohai He.
 
 == Research
-- Automatic code generation for embedded convex optimization
-- Computer modeling of convex problems
+- Biomorphic Silicon Carbide Porous Ceramics Originated from Wood
+- Wood Derived Self-standing Electrodes for Supercapacitors
 
 == Education
 - Ph.D. in Wood Science and Technology, [http://international.bjfu.edu.cn/eng_index/index.html Beijing Forestry University],
-  2018-now (M.S. Leading to Ph.D.)
+  2018-now ~ (M.S. Leading to Ph.D.)
 - M.S. in Wood Science and Technology,
   [http://international.bjfu.edu.cn/eng_index/index.html Beijing Forestry University], 2016-2018
-- B.S. in Wood Science and Engineering,
+- B.E. in Wood Science and Engineering,
   [http://en.nefu.edu.cn/ Northeast Forestry University], 2012-2016
 
 == Recent Publications
-- [https://doi.org/10.3390/ma11122430 Fabrication of macroporous biomorphic SiC from cellulose nanofibers aerogel]\n *M. Wang*, F. Liu, Y. Chen, J. Gao.\n
+- [https://doi.org/10.3390/ma11122430 Fabrication of Macroporous Biomorphic SiC from Cellulose Nanofibers Aerogel]\n *M. Wang*, F. Liu, Y. Chen, J. Gao.\n
     /Materials/, 11(12):2430, *2018*
-- [https://doi.org/10.1007/s00339-019-2975-0 Mechanical properties and microstructure of reaction sintering SiC ceramics reinforced with graphene-based fillers]\n F. Liu, *M. Wang*, Y. Chen, J. Gao, T. Ma.
+- [https://doi.org/10.1007/s00339-019-2975-0 Mechanical Properties and Microstructure of Reaction Sintering SiC Ceramics Reinforced with Graphene-based Fillers]\n F. Liu, *M. Wang*, Y. Chen, J. Gao, T. Ma.
     \n/Appl. Phys. A./, 125(10):680, *2019*
-- [https://doi.org/10.1016/j.jssc.2019.04.008 Thermal stability of graphene in inert atmosphere at high temperature]\n F. Liu, *M. Wang*, Y. Chen, J. Gao.
+- [https://doi.org/10.1016/j.jssc.2019.04.008 Thermal Stability of Graphene in Inert Atmosphere at High Temperature]\n F. Liu, *M. Wang*, Y. Chen, J. Gao.
     \n/J. Solid State Chem./, 276:100-3, *2019*
+	
+== Research Projects Participating
+- Preparation of Lignin-based Graphene Reaction-sintered Silicon Carbide and Its Bulletproof Application\n NSF of China, Jan 2016-Dec 2019
 
 
-== Talks
-- [code_gen_impl_slides.pdf *Code Generation for Embedded Convex Optimization*],
-  given at Stanford University in October 2010, and [http://www.jpl.nasa.gov/ NASA
-  JPL] and [http://www.caltech.edu/ Caltech] in November 2010.
-- [msc10-mattingley.pdf Code Generation for Receding Horizon Control],
-  given at [http://www.mei.titech.ac.jp/msc10/ IEEE MSC] in Yokohama, Japan,
-  September 2010
-- [berkeley10-mattingley.pdf Embedded Convex Optimization], given at
-  [http://embedded.eecs.berkeley.edu/seminar/ UC Berkeley] and at
-  [http://www.kuleuven.be/ KU Leuven], March 2010
-- [informs08-mattingley.pdf CVXMOD: Convex Optimization in Python], given at
-  the [http://meetings.informs.org/DC08/ INFORMS Annual Meeting] in Washington
-  DC, 2008
-
+== Scholarships and Awards
+- Academic Innovation Award, Beijing Forestry University, Oct 2019
+- Academic Scholarship for Postgraduates, Beijing Forestry University, Oct 2016-Oct 2019 ~ (continuously)
+- Outstanding Undergraduate Thesis Award, Northeast Forestry University, Jun 2016 ~ (<3%)
+- TATA Scholarship, TATA Wooden Doors Group, Dec 2014
 
 == Teaching
-Instructor for:
-- Introduction to Linear Dynamical Systems
-  ([http://www.stanford.edu/class/ee263s/ EE263s]), Stanford University, Summer 2009
-- [http://www.kuleuven.be/optec/athens/2010 Embedded and Convex Optimization for
-  Control], one week course, KU Leuven, Belgium, March 2010
+Teaching assistant at Beijing Forestry University for:
+- 4 Bachelor Thesis ~ 2017-2020 ~ (one in progress)
+- 2 National Undergraduate Innovation and Entrepreneurship Training Programs ~ 2017 and 2019
 
-Teaching assistant at Stanford University for:
-- Introduction to Linear Dynamical Systems
-  ([http://www.stanford.edu/class/ee263/ EE263]), Autumn 2006, 2007 and 2008
-- Linear Dynamical Systems ([http://www.stanford.edu/class/ee363/ EE363]),
-  Winter 2009
-- Convex Optimization I ([http://www.stanford.edu/class/ee364a/ EE364a]),
-  Winter 2008
-- Convex Optimization II ([http://www.stanford.edu/class/ee364b/ EE364b]),
-  Winter 2007 and Spring 2008
 
 
 
