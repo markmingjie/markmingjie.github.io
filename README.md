@@ -1,2 +1,2 @@
-Personal Academic Website on GitHub Pages, powered by [Jemdoc](https://jemdoc.jaboc.net/).
-Original python script was modified with google analytics code.
+# Personal academic website on GitHub pages, powered by [Jemdoc](https://jemdoc.jaboc.net/).  
+# Google analytics tracking ID and copyright statement were added to the original python script.
