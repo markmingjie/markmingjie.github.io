@@ -260,7 +260,8 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Information lastupdated | &#169 All rights reserved
+  Information last updated | &#169 All rights reserved
+  <br> This page contains Google Analytics Tracking ID, please be advised
 
   [sourcelink]
   (<a href="|">source</a>)
